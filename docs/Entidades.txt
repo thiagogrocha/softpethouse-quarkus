@@ -1,0 +1,18 @@
+Usuario
+	id
+	email
+	senha
+	nome
+
+Pet
+	id
+	idUsuario
+	nome
+	especie
+	raca
+	
+HistoricoPet
+	id
+	idPet
+	descricao
+	
